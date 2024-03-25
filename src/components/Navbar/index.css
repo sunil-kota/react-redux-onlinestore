@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color:dodgerblue;
+}
+
+.search-box input{
+    width: 400px;
+    height:35px;
+    border-radius: 7px;
+    outline: none;
+    border: none;
+    font-size: 18px;
+    padding: 5px;
+}
+
